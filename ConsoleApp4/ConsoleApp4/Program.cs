@@ -14,9 +14,5 @@ namespace ConsoleApp4
             Console.WriteLine("Fun");
         }
 
-        static void Fun2()
-        {
-            Console.WriteLine("Fun");
-        }
     }
 }
