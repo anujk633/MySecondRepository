@@ -8,5 +8,10 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void Fun()
+        {
+            Console.WriteLine("Fun");
+        }
     }
 }
